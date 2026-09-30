@@ -35,7 +35,6 @@ Most lists like this rot fast: programs close, companies get acquired, and pages
 | [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) | $350 | Web3, RPC, smart contracts |
 | [Simple Talk (Redgate)](https://www.red-gate.com/simple-talk/write-for-us/) | $350 | SQL Server, databases, .NET, DevOps |
 | [WonderProxy](https://wonderproxy.com/blog/looking-for-authors/) | $350–$500 | Testing, localization, networking |
-| [Betterstack](https://betterstack.com/community/write-for-us/) | $300 | Observability, logging, scaling |
 | [Civo](https://www.civo.com/write-for-us) | $200–$500 | Kubernetes, cloud native |
 | [Semaphore](https://semaphore.io/community/tutorials/how-to-write-an-article-for-the-semaphore-community) | Up to $500 (reported) | CI/CD, testing, DevOps |
 | [Saturn Cloud](https://saturncloud.io/write-for-us/) | $300+ | Data science, ML, GPUs |
